@@ -20,7 +20,7 @@
                 "mult": 0.0
             },
             "maxTaken": 60,
-            "name": "Default",
+            "name": "5 per day",
             "new": {
                 "bury": true,
                 "delays": [
@@ -34,7 +34,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 10,
+                "perDay": 5,
                 "separate": true
             },
             "newGatherPriority": 0,
@@ -60,8 +60,319 @@
     "dyn": 0,
     "extendNew": 0,
     "extendRev": 0,
-    "media_files": [],
+    "media_files": [
+        "paste-07e070a38dc5b94908d78e90970a2c85f148f1a1.jpg",
+        "paste-0a589a7abadbdaebcd06f45344dbbf3e8de900d5.jpg",
+        "paste-1019cffdc21d039085adc66be5b24a928060db22.jpg",
+        "paste-1b2677abb3718cee7d30cd7f918b9f0dc2058e7a.jpg",
+        "paste-1d1112407221c3dcc2a0fac54938d5d1e40963ea.jpg",
+        "paste-3247dea264178f5d22e247946aa1bfca23fc5bfa.jpg",
+        "paste-3ab4c907cd64f3c98d7e8486a01b40b24490ae40.jpg",
+        "paste-43d9956fcd57c2e2459153d6306d0a554ba06031.jpg",
+        "paste-506cb1143e1ca5a2f34884d4d79cb9ae27c29f77.jpg",
+        "paste-54045d30f572c478b1e0ca22fe7174d914d20dad.jpg",
+        "paste-58b21ec371ffde421dc7aaad4f8c3f13e309c60a.jpg",
+        "paste-755c925a62bfc10b6ed08fa50443777f99fa551d.jpg",
+        "paste-76f6c98beee0811b370ab4201ee6b1b6088ad884.jpg",
+        "paste-8185a09237df01bfa309c5670ae016a5c89da1e7.jpg",
+        "paste-830fcd81093a7670a3140a1de9bea91b34b571d5.jpg",
+        "paste-a7e62a120818080a897d70243488c01b3c60159b.jpg",
+        "paste-b9f6668a2b1d50faac7e4d76ad781d4065689060.jpg",
+        "paste-c67e6489b051b882d1321ed022ed27f8fb02099a.jpg",
+        "paste-e0a4be7b9804895b5ef5f1c3f6b7a615b3c2fe09.jpg",
+        "paste-e57d18e37aba7192630e5696bed02dddaf6bd61e.jpg",
+        "paste-f8ed8289dd5f5db2ddd3e85afc10c84ad6e0bc7c.jpg"
+    ],
     "name": "Data Structures and Algorithms",
-    "note_models": [],
-    "notes": []
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "bf77a69a-77d5-11ec-851a-18c04df1fa07",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Frente",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Verso",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Básico",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Verso}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cartão 1",
+                    "ord": 0,
+                    "qfmt": "{{Frente}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-e0a4be7b9804895b5ef5f1c3f6b7a615b3c2fe09.jpg\">",
+                "<img src=\"paste-43d9956fcd57c2e2459153d6306d0a554ba06031.jpg\">"
+            ],
+            "guid": "r5lAd@DP1Y",
+            "note_model_uuid": "bf77a69a-77d5-11ec-851a-18c04df1fa07",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-b9f6668a2b1d50faac7e4d76ad781d4065689060.jpg\">",
+                "<img src=\"paste-f8ed8289dd5f5db2ddd3e85afc10c84ad6e0bc7c.jpg\">"
+            ],
+            "guid": "dazGr+$epu",
+            "note_model_uuid": "bf77a69a-77d5-11ec-851a-18c04df1fa07",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-1019cffdc21d039085adc66be5b24a928060db22.jpg\">",
+                "<img src=\"paste-3247dea264178f5d22e247946aa1bfca23fc5bfa.jpg\">"
+            ],
+            "guid": "i/=?Dj,]n2",
+            "note_model_uuid": "bf77a69a-77d5-11ec-851a-18c04df1fa07",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-54045d30f572c478b1e0ca22fe7174d914d20dad.jpg\">",
+                "<img src=\"paste-8185a09237df01bfa309c5670ae016a5c89da1e7.jpg\">"
+            ],
+            "guid": "fwJlek[Ul:",
+            "note_model_uuid": "bf77a69a-77d5-11ec-851a-18c04df1fa07",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-506cb1143e1ca5a2f34884d4d79cb9ae27c29f77.jpg\">",
+                "<img src=\"paste-830fcd81093a7670a3140a1de9bea91b34b571d5.jpg\">"
+            ],
+            "guid": "GCK7-N~|~Y",
+            "note_model_uuid": "bf77a69a-77d5-11ec-851a-18c04df1fa07",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-1b2677abb3718cee7d30cd7f918b9f0dc2058e7a.jpg\">",
+                "<img src=\"paste-c67e6489b051b882d1321ed022ed27f8fb02099a.jpg\">"
+            ],
+            "guid": ">=vy6hb2o",
+            "note_model_uuid": "bf77a69a-77d5-11ec-851a-18c04df1fa07",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-07e070a38dc5b94908d78e90970a2c85f148f1a1.jpg\">",
+                "<img src=\"paste-1d1112407221c3dcc2a0fac54938d5d1e40963ea.jpg\">"
+            ],
+            "guid": "B2gTE3|{AD",
+            "note_model_uuid": "bf77a69a-77d5-11ec-851a-18c04df1fa07",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-3ab4c907cd64f3c98d7e8486a01b40b24490ae40.jpg\">",
+                "<img src=\"paste-e57d18e37aba7192630e5696bed02dddaf6bd61e.jpg\">"
+            ],
+            "guid": "k}>UB_K*Xv",
+            "note_model_uuid": "bf77a69a-77d5-11ec-851a-18c04df1fa07",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-58b21ec371ffde421dc7aaad4f8c3f13e309c60a.jpg\">",
+                "<img src=\"paste-0a589a7abadbdaebcd06f45344dbbf3e8de900d5.jpg\">"
+            ],
+            "guid": "c%IE`9~GE7",
+            "note_model_uuid": "bf77a69a-77d5-11ec-851a-18c04df1fa07",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Recursive routine to print an integer&nbsp;",
+                "<img src=\"paste-755c925a62bfc10b6ed08fa50443777f99fa551d.jpg\">"
+            ],
+            "guid": "ILY;3Njnbv",
+            "note_model_uuid": "bf77a69a-77d5-11ec-851a-18c04df1fa07",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the time complexity of binary search?",
+                "O(log N)"
+            ],
+            "guid": "M<p=D4]vf}",
+            "note_model_uuid": "bf77a69a-77d5-11ec-851a-18c04df1fa07",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Properties of array as list",
+                "Insert: O(N) at the beginning and O(1) at the end<br>Delete: O(N) at the beginning and O(1) at the end<br>Access: O(1)"
+            ],
+            "guid": "D_{.dlq$=x",
+            "note_model_uuid": "bf77a69a-77d5-11ec-851a-18c04df1fa07",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Properties of simple linked list as list",
+                "Insert: O(1) for head, tail, and known location. Otherwise O(i)<br>Delete: O(1) for head, tail, and known location. Otherwise O(i)<br>Find i: O(i)"
+            ],
+            "guid": "A)]3ChV{Si",
+            "note_model_uuid": "bf77a69a-77d5-11ec-851a-18c04df1fa07",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Properties of stack",
+                "Usually implemented using array<br>Insert (push): O(1)<br>Delete (pop): O(1)<br>Access (peek): O(1)"
+            ],
+            "guid": "s]b%IX8+hW",
+            "note_model_uuid": "bf77a69a-77d5-11ec-851a-18c04df1fa07",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How do you check for balancing symbols?<br>Ex: The sequence [()] is legal, but [(]) is wrong&nbsp;",
+                "The simple algorithm uses a stack and is as follows:<br>Make an empty stack. Read characters until end of file. If the character is an opening<br>symbol, push it onto the stack. If it is a closing symbol and the stack is empty, report<br>an error. Otherwise, pop the stack. If the symbol popped is not the corresponding<br>opening symbol, then report an error. At end of file, if the stack is not empty, report an<br>error&nbsp;"
+            ],
+            "guid": "A8U|k~9qGB",
+            "note_model_uuid": "bf77a69a-77d5-11ec-851a-18c04df1fa07",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How do you evaluate postfix expressions?<br>Ex: 4.99 1.06 ∗ 5.99 + 6.99 1.06 ∗ +&nbsp; is the postfix expression of 4.99 ∗ 1.06 + 5.99 + 6.99 ∗ 1.06&nbsp;",
+                "Keep on pushing numbers to stack and when a mathematical symbol is encountered pop two values, evalute the result and push it to the stack.<br>Continue reading from the expression until you have one number in the stack."
+            ],
+            "guid": "JSMSLu9qpx",
+            "note_model_uuid": "bf77a69a-77d5-11ec-851a-18c04df1fa07",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How do you convert infix to postfix expression?<br>Ex: a + b * c + ( d * e + f ) * g&nbsp; &nbsp; to&nbsp; &nbsp; a b c * + d e * f + g * +&nbsp;",
+                "Create a stack for storing mathematical symbols and an array for numbers<br>Read numbers from infix and add them to the array. When a symbol is encountered push it to the stack.<br>If the read symbol has a lower precedence that the symbol on the top of the stack, pop all the symbols and add them to the output, and then push the read symbol to the stack.<br>Treat parantheses as symbols of highest precedence.<br>Parantheses are not output until the closing one is encountered. When that happens, output all the symbols till the opening parantheses.<br>When the end is reached pop all the remaining symbols and add them to output."
+            ],
+            "guid": "Gr+%+P-P2[",
+            "note_model_uuid": "bf77a69a-77d5-11ec-851a-18c04df1fa07",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Implementation of queues",
+                "Circular buffer using arrasy<br>Insert (enqueue): O(1)<br>Delete (dequeue): O(1)<br>Access (peek): O(1)"
+            ],
+            "guid": "Hh*WD5Afa{",
+            "note_model_uuid": "bf77a69a-77d5-11ec-851a-18c04df1fa07",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the average running time of most operations in binary search trees?",
+                "O(log N)"
+            ],
+            "guid": "t3+h,Gd9C",
+            "note_model_uuid": "bf77a69a-77d5-11ec-851a-18c04df1fa07",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What do you call A?<br>What is the relationship between A and E?<br>What is the relationship between J and E?<br>What do you call the connection between A and E?<br><img src=\"paste-76f6c98beee0811b370ab4201ee6b1b6088ad884.jpg\">",
+                "A is the tree's root<br>A is E's parent node<br>J is E's child note<br>The connection between them is an edge"
+            ],
+            "guid": "Q$1P1@lD<8",
+            "note_model_uuid": "bf77a69a-77d5-11ec-851a-18c04df1fa07",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What do you call P &amp; Q?<br>What is the relationship between I &amp; J?<br>What is the relationship between E &amp; Q?<br>What is the relationship between Q &amp; E?<br><img src=\"paste-a7e62a120818080a897d70243488c01b3c60159b.jpg\">",
+                "P &amp; Q are leaves because they have no children<br>I &amp; J are siblings<br>E is Q's grandparent<br>Q is E's grandchild"
+            ],
+            "guid": "Jp_sM%;(Ne",
+            "note_model_uuid": "bf77a69a-77d5-11ec-851a-18c04df1fa07",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What do you call all the nodes between A and Q?<br>How do you define its length?<br>What is a node's depth?<br>What is a node's height?<br><img src=\"paste-a7e62a120818080a897d70243488c01b3c60159b.jpg\">",
+                "The nodes between A &amp; Q are called the path between them.<br>The length is the number of edges on the path.<br>A node's depth is the length of a unique path to the root.<br>A node's height is the length of the longest path between the node and a leaf."
+            ],
+            "guid": "BQ#9fkXV[,",
+            "note_model_uuid": "bf77a69a-77d5-11ec-851a-18c04df1fa07",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the relationship between A &amp; Q?<br>What is the relationship between Q &amp; A?<br>Why is the relationship between them is considered to be proper?<br><img src=\"paste-a7e62a120818080a897d70243488c01b3c60159b.jpg\">",
+                "A is an ancestor of Q.<br>Q is a descendant of A.<br>A is a proper ancestor of Q because A!=Q since each node can be its own ancestor and descendant."
+            ],
+            "guid": "x81oXD`|]t",
+            "note_model_uuid": "bf77a69a-77d5-11ec-851a-18c04df1fa07",
+            "tags": []
+        }
+    ]
 }
